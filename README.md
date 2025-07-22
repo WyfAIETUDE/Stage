@@ -4,7 +4,6 @@
 ## Auteurs
 - Wu Yufan
 - Zhang Shixu  
-Classe Verte  
 29/04/2024
 
 ## Table des Matières
